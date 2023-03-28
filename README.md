@@ -22,5 +22,5 @@ buildFeatures {
 # For navigation ( jetpack ) (New with Nav graph)
 
 <pre>
-  <a href="https://developer.android.com/jetpack/androidx/releases/navigation">Click the Developer docs link </a>
+  <a target="_blank" href="https://developer.android.com/jetpack/androidx/releases/navigation">Click the Developer docs link </a>
 </pre>
