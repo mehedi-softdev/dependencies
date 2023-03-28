@@ -11,12 +11,9 @@ buildFeatures {
 
 # For Live data and View Model ( dependency level ) 
 <pre>
-    def lifecycle_version = "2.2.0"
-
-    // ViewModel
-    implementation "androidx.lifecycle:lifecycle-viewmodel-ktx:$lifecycle_version"
-    // LiveData
-    implementation "androidx.lifecycle:lifecycle-livedata-ktx:$lifecycle_version"
+  def lifecycle_version = "2.4.0"
+  implementation "androidx.lifecycle:lifecycle-viewmodel:$lifecycle_version"
+  implementation "androidx.lifecycle:lifecycle-viewmodel-ktx:$lifecycle_version"
 </pre>
 
 # For navigation ( jetpack ) (New with Nav graph)
